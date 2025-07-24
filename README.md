@@ -1,0 +1,1 @@
+En esta aplicacion de net maui modificamos los parametros que posee un entry y hacemos que lo que se escriba parezca una contraseña y ademas que poseea un limite de caracteres, aparte de eso en el code-behind hacemos que se pueda obtener el cotenido del entry cuando va cambiando
